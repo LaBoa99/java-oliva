@@ -1,0 +1,12 @@
+*.zip
+*/.vscode
+*/.idea
+*/.DS_Store
+*/.env
+*/.env.local
+*/.env.development
+*/.env.test
+*/.env.production
+
+bin
+lib
